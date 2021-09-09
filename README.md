@@ -1,6 +1,6 @@
 ### Oi, sou Felipe Matos! ✨ Bem vindo ao meu Git, Dev's 💻
 
-![FMTSL GitHub stats](https://github-readme-stats.vercel.app/api?username=FMTSL_icons=true&theme=radical)
+![FMTSL GitHub stats](https://github-readme-stats.vercel.app/api?username=FMTSL&show_icons=true&theme=onedark)
 
 
 
