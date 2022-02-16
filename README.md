@@ -16,6 +16,7 @@
 
 
 ![Felipe Matos GitHub stats](https://github-readme-stats.vercel.app/api?username=FMTSL&show_icons=true&theme=dark)
+ ![Felipe Matos Linguas](https://github-readme-stats.vercel.app/api/top-langs/?username=FMTSL&layout=compact&langs_count=7&theme=dark)
 
 
 
