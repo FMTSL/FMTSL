@@ -1,6 +1,9 @@
-<h1 align="center"> Muito prazer, eu sou Felipe Matos. Bem-vindos ao meu GitHub! <img align="center" height="50" width="80" src="https://c.tenor.com/RDEHjB7H1HQAAAAC/mario-hi.gif">
+<h2 align="center"> Muito prazer, eu sou Felipe Matos. Bem-vindos ao meu GitHub!</h2>
  
 
+<div align="center"> 
+<img  src="https://github.com/FMTSL/Portfolio/blob/main/assets/img/felipe.gif">
+</div>
 
 <div align="center" style="display: inline_block">
  
@@ -19,7 +22,7 @@
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=FMTSL&show_icons=true&theme=dark">
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FMTSL&layout=compact&langs_count=7&theme=dark">
 </div>
-<img  alt="Coding" width="400" src="https://github.com/FMTSL/Portfolio/blob/main/assets/img/felipe.gif">
+
 
 
 
