@@ -1,5 +1,4 @@
-<h2 align="center"> Muito prazer, eu sou Felipe Matos. Bem-vindos ao meu GitHub!</h2>
- 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=27F700&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Ol%C3%A1%2C+sou+Felipe+Matos%2C+bem-vindos!" alt="Typing SVG" /></a>
 
 <div align="center"> 
 <img  src="https://github.com/FMTSL/Portfolio/blob/main/assets/img/felipe.gif">
