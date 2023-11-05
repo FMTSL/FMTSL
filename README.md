@@ -25,10 +25,10 @@
  ```javascript
   perfil.index({
   nome: 'Felipe Matos de Lima',
-  age: 26,
-  office: 'Desenvolvedor Web',
-  university_graduate: 'Sistemas para Internet e Análise e Desenvolvimento de Sistemas',
-  city: 'São Paulo, SP',
+  idade: 26,
+  profissão: 'Desenvolvedor Web',
+  graduações: 'Sistemas para Internet e Análise e Desenvolvimento de Sistemas',
+  cidade: 'São Paulo, SP',
   });
  ```
 </div>
@@ -43,9 +43,6 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=FMTSL&show_icons=true&theme=dark">
 </div>
 
-<div align="center" style="display: inline_block, width="100%">
- ![Snake animation](https://github.com/FMTSL/FMTSL/blob/output/github-contribution-grid-snake.svg)
-</div>
 
 
 
