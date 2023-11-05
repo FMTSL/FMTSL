@@ -1,4 +1,4 @@
-<div align="center" style="display: flex; justify-content: space-around;">
+<div align="center" style="display: flex;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=27F700&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Ol%C3%A1%2C+sou+Felipe+Matos%2C+bem-vindos!" alt="Typing SVG" />
   <img align="center" alt="carol-HTML" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center"  height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
