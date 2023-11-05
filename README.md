@@ -22,9 +22,9 @@
 </div>
 
 <div align="center" style="display: inline_block, width="100%">
- <img height="170em" src="https://github-readme-stats.vercel.app/api?username=FMTSL&show_icons=true&theme=dark">
- <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FMTSL&layout=compact&langs_count=7&theme=dark">
- <img  height="170em" src="https://github.com/FMTSL/Portfolio/blob/main/assets/img/felipe.gif">
+  <img  height="170em" src="https://github.com/FMTSL/Portfolio/blob/main/assets/img/felipe.gif">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FMTSL&layout=compact&langs_count=7&theme=dark">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=FMTSL&show_icons=true&theme=dark">
 </div>
   
 <div align="center"> 
