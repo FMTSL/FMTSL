@@ -16,9 +16,6 @@
     <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
     <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
     <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-
-
-
   </div>
  
 </div>
@@ -46,10 +43,9 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=FMTSL&show_icons=true&theme=dark">
 </div>
 
-
-
-
-
+<div align="center" style="display: inline_block, width="100%">
+ ![Snake animation](https://github.com/FMTSL/FMTSL/blob/output/github-contribution-grid-snake.svg)
+</div>
 
 
 
