@@ -1,6 +1,15 @@
 # Bem-vindo ao meu perfil! 👋
 
-Olá, sou Felipe Matos, um desenvolvedor web de São Paulo, SP. Tenho graduações em Sistemas para Internet e Análise e Desenvolvimento de Sistemas.
+Desenvolvedor Web Pleno | São Paulo, SP
+
+3 anos de experiência em desenvolvimento web, especializado em PHP, MySQL, HTML5, CSS3, JavaScript e Bootstrap. Atuo como Desenvolvedor Full Stack com Java, Spring Boot, Angular, TypeScript e Node.js.
+
+Certificado como 'Desenvolvedor Web Fullstack Java Júnior'. Cursando 'Sistemas Para Internet' e 'Análise e Desenvolvimento de Sistemas'. Participante do Bootcamp da Ada Tech em colaboração com o iFood, focando no Front-End.
+
+Experiência em criação e manutenção de APIs REST, administração de Bancos de Dados e desenvolvimento de aplicações web. Especializado em modelagem, desenvolvimento e testes de aplicações, priorizando codificação limpa e semântica.
+
+Conhecimentos em JavaScript, TypeScript, Node.js, Bootstrap, MySQL, Angular, React, Spring Framework, Docker, metodologia ágil SCRUM. Buscando aprimorar habilidades em Cloud Computing e obter a certificação AWS Certified Cloud Practitioner.
+
 
 <div>
     <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
